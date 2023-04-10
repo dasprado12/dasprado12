@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dasprado12
 - 👀 I’m interested in IoT, Machine Learning and Software Development
-- 🌱 I’m currently learning Vuejs
+- 🌱 I’m currently learning Vuejs and TypeScript
 - 📫 My e-mail is danielsprado12@gmail.com
 
 <!---
